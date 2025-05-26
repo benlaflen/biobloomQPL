@@ -33,6 +33,7 @@ class sntHashIterator : public ntHashIterator
 		assert(seed.empty());
 		(void)seed;
 		assert(h2 == 1);
+		(void)h2;
 	}
 };
 
