@@ -26,7 +26,7 @@ static const string UNKNOWN = "unknown";
 template<typename T>
 class ResultsManager {
 public:
-	explicit ResultsManager<T>(const vector<string> &filterOrderRef,
+	explicit ResultsManager(const vector<string> &filterOrderRef,
 			bool inclusive) :
 			m_filterOrder(filterOrderRef), m_noMatchIndex(
 					filterOrderRef.size()), m_multiMatchIndex(
