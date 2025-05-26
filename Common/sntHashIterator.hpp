@@ -31,6 +31,7 @@ class sntHashIterator : public ntHashIterator
 			unsigned h2, unsigned k, size_t pos = 0) :
 			ntHashIterator(seq, h, k, pos) {
 		assert(seed.empty());
+		(void)seed;
 		assert(h2 == 1);
 	}
 };
