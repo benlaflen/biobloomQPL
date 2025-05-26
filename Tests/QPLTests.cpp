@@ -18,7 +18,7 @@ int main() {
     // Bit vector B: 10101010 10101010 ...
     std::vector<uint8_t> vec_b(num_bytes, 0xAA);
 
-    sum_value = perform_bitwise_and_sum(vec_a, vec_b, num_bits)
+    uint32_t sum_value = perform_bitwise_and_sum(vec_a.data(), vec_b.data(), num_bits)
 
     // Print result
     std::cout << "Bitwise AND sum (number of 1s): " << sum_value << std::endl;
