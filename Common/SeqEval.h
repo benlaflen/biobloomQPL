@@ -17,7 +17,7 @@
 #include <cassert>
 #include "Common/Options.h"
 #include "btl_bloomfilter/BloomFilter.hpp"
-#include "btl_bloomfilter/vendor/ntHashIterator.hpp"
+#include "btl_bloomfilter/vendor/ntHashIteratorQPL.hpp"
 #include <boost/math/distributions/binomial.hpp>
 #include "Common/SDust.hpp"
 
@@ -51,8 +51,8 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.contains(*itr)) {
-			if (subtract == NULL || !subtract->contains(*itr))
+				&& filter.containsQPL(*itr)) {
+			if (subtract == NULL || !subtract->containsQPL(*itr))
 				score += 0.5;
 			if (thres <= score) {
 				return true;
@@ -76,12 +76,12 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 			streak = 0;
 		}
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.contains(*itr)) {
+				&& filter.containsQPL(*itr)) {
 			if (streak == 0) {
-				if (subtract == NULL || !subtract->contains(*itr))
+				if (subtract == NULL || !subtract->containsQPL(*itr))
 					score += 0.5;
 			} else {
-				if (subtract == NULL || !subtract->contains(*itr))
+				if (subtract == NULL || !subtract->containsQPL(*itr))
 					++score;
 			}
 			if (thres <= score) {
