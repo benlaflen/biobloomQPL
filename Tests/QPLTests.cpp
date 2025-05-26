@@ -4,7 +4,7 @@
 #include <cstdint>
 #include <cstring>
 
-#include "btl_bloomfilter/vendor/QPL.hpp"
+#include "vendor/QPL.hpp"
 
 //g++ qpl_test.cpp -o qpl_test -I/path/to/qpl/include -L/path/to/qpl/lib -lqpl
 
