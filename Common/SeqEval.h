@@ -18,6 +18,7 @@
 #include "Common/Options.h"
 #include "btl_bloomfilter/BloomFilter.hpp"
 #include "btl_bloomfilter/vendor/ntHashIteratorQPL.hpp"
+#include "btl_bloomfilter/vendor/ntHashIterator.hpp"
 #include <boost/math/distributions/binomial.hpp>
 #include "Common/SDust.hpp"
 
@@ -47,7 +48,7 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	double score = 0;
 	unsigned antiScore = 0;
 	unsigned streak = 0;
-	ntHashIterator itr(rec, filter.getKmerSize(), filter.getKmerSize());
+	ntHashIteratorQPL itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
