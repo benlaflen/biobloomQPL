@@ -44,6 +44,8 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	const double antiThres = floor(
 			denormalizeScore(1.0 - threshold, filter.getKmerSize(),
 					rec.length()));
+	
+	std::cout<<"TEST!!!\n\n";
 
 	double score = 0;
 	unsigned antiScore = 0;
