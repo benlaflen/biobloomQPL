@@ -44,18 +44,16 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	const double antiThres = floor(
 			denormalizeScore(1.0 - threshold, filter.getKmerSize(),
 					rec.length()));
-	
-	std::cout<<"TEST!!!\n\n";
 
 	double score = 0;
 	unsigned antiScore = 0;
 	unsigned streak = 0;
-	ntHashIterator itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
+	ntHashIteratorQPL itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.contains(*itr)) {
-			if (subtract == NULL || !subtract->contains(*itr))
+				&& filter.containsQPL(*itr)) {
+			if (subtract == NULL || !subtract->containsQPL(*itr))
 				score += 0.5;
 			if (thres <= score) {
 				return true;
@@ -79,12 +77,12 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 			streak = 0;
 		}
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.contains(*itr)) {
+				&& filter.containsQPL(*itr)) {
 			if (streak == 0) {
-				if (subtract == NULL || !subtract->contains(*itr))
+				if (subtract == NULL || !subtract->containsQPL(*itr))
 					score += 0.5;
 			} else {
-				if (subtract == NULL || !subtract->contains(*itr))
+				if (subtract == NULL || !subtract->containsQPL(*itr))
 					++score;
 			}
 			if (thres <= score) {
