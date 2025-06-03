@@ -1,0 +1,1510 @@
+QPL job took: 224854us
+
+Memset 0 took: 136498us
+
+Hashing took: 136507us
+
+QPL job took: 207195us
+
+Memset 0 took: 130202us
+
+Hashing took: 130211us
+
+QPL job took: 207135us
+
+Memset 0 took: 129654us
+
+Hashing took: 129663us
+
+QPL job took: 207011us
+
+Memset 0 took: 130083us
+
+Hashing took: 130090us
+
+QPL job took: 206993us
+
+Memset 0 took: 130141us
+
+Hashing took: 130151us
+
+QPL job took: 206954us
+
+Memset 0 took: 129912us
+
+Hashing took: 129921us
+
+QPL job took: 207211us
+
+Memset 0 took: 129806us
+
+Hashing took: 129818us
+
+QPL job took: 206512us
+
+Memset 0 took: 130205us
+
+Hashing took: 130213us
+
+QPL job took: 206776us
+
+Memset 0 took: 129675us
+
+Hashing took: 129684us
+
+QPL job took: 207076us
+
+Memset 0 took: 129706us
+
+Hashing took: 129717us
+
+QPL job took: 206991us
+
+Memset 0 took: 130108us
+
+Hashing took: 130117us
+
+QPL job took: 207071us
+
+Memset 0 took: 129830us
+
+Hashing took: 129838us
+
+QPL job took: 207340us
+
+Memset 0 took: 129801us
+
+Hashing took: 129810us
+
+QPL job took: 206879us
+
+Memset 0 took: 129965us
+
+Hashing took: 129974us
+
+QPL job took: 206987us
+
+Memset 0 took: 130005us
+
+Hashing took: 130016us
+
+QPL job took: 206927us
+
+Memset 0 took: 130069us
+
+Hashing took: 130080us
+
+QPL job took: 206817us
+
+Memset 0 took: 130106us
+
+Hashing took: 130117us
+
+QPL job took: 207026us
+
+Memset 0 took: 129886us
+
+Hashing took: 129895us
+
+QPL job took: 207453us
+
+Memset 0 took: 130124us
+
+Hashing took: 130135us
+
+QPL job took: 206479us
+
+Memset 0 took: 129975us
+
+Hashing took: 129985us
+
+QPL job took: 206875us
+
+Memset 0 took: 130108us
+
+Hashing took: 130118us
+
+QPL job took: 206641us
+
+Memset 0 took: 130063us
+
+Hashing took: 130070us
+
+QPL job took: 206925us
+
+Memset 0 took: 130280us
+
+Hashing took: 130290us
+
+QPL job took: 206649us
+
+Memset 0 took: 129908us
+
+Hashing took: 129917us
+
+QPL job took: 207341us
+
+Memset 0 took: 129922us
+
+Hashing took: 129933us
+
+QPL job took: 206695us
+
+Memset 0 took: 130312us
+
+Hashing took: 130324us
+
+QPL job took: 206394us
+
+Memset 0 took: 129956us
+
+Hashing took: 129966us
+
+QPL job took: 206770us
+
+Memset 0 took: 130022us
+
+Hashing took: 130033us
+
+QPL job took: 206651us
+
+Memset 0 took: 130219us
+
+Hashing took: 130229us
+
+QPL job took: 206587us
+
+Memset 0 took: 129817us
+
+Hashing took: 129824us
+
+QPL job took: 207048us
+
+Memset 0 took: 129905us
+
+Hashing took: 129916us
+
+QPL job took: 206584us
+
+Memset 0 took: 129985us
+
+Hashing took: 129996us
+
+QPL job took: 206819us
+
+Memset 0 took: 129824us
+
+Hashing took: 129835us
+
+QPL job took: 206776us
+
+Memset 0 took: 130152us
+
+Hashing took: 130164us
+
+QPL job took: 207023us
+
+Memset 0 took: 129946us
+
+Hashing took: 129957us
+
+QPL job took: 206290us
+
+Memset 0 took: 129862us
+
+Hashing took: 129871us
+
+QPL job took: 207120us
+
+Memset 0 took: 129932us
+
+Hashing took: 129943us
+
+QPL job took: 207051us
+
+Memset 0 took: 130012us
+
+Hashing took: 130025us
+
+QPL job took: 206446us
+
+Memset 0 took: 129908us
+
+Hashing took: 129919us
+
+QPL job took: 206979us
+
+Memset 0 took: 130047us
+
+Hashing took: 130055us
+
+QPL job took: 207068us
+
+Memset 0 took: 129828us
+
+Hashing took: 129838us
+
+QPL job took: 206842us
+
+Memset 0 took: 129973us
+
+Hashing took: 129982us
+
+QPL job took: 206536us
+
+Memset 0 took: 129983us
+
+Hashing took: 129992us
+
+QPL job took: 207060us
+
+Memset 0 took: 130039us
+
+Hashing took: 130050us
+
+QPL job took: 206454us
+
+Memset 0 took: 130130us
+
+Hashing took: 130140us
+
+QPL job took: 206784us
+
+Memset 0 took: 129868us
+
+Hashing took: 129877us
+
+QPL job took: 207356us
+
+Memset 0 took: 129854us
+
+Hashing took: 129865us
+
+QPL job took: 206813us
+
+Memset 0 took: 130264us
+
+Hashing took: 130272us
+
+QPL job took: 206926us
+
+Memset 0 took: 129888us
+
+Hashing took: 129900us
+
+QPL job took: 206826us
+
+Memset 0 took: 130002us
+
+Hashing took: 130014us
+
+QPL job took: 206513us
+
+Memset 0 took: 130197us
+
+Hashing took: 130207us
+
+QPL job took: 206990us
+
+Memset 0 took: 129866us
+
+Hashing took: 129876us
+
+QPL job took: 207115us
+
+Memset 0 took: 129936us
+
+Hashing took: 129947us
+
+QPL job took: 207134us
+
+Memset 0 took: 130249us
+
+Hashing took: 130258us
+
+QPL job took: 206900us
+
+Memset 0 took: 129855us
+
+Hashing took: 129865us
+
+QPL job took: 207073us
+
+Memset 0 took: 129888us
+
+Hashing took: 129898us
+
+QPL job took: 207202us
+
+Memset 0 took: 130176us
+
+Hashing took: 130184us
+
+QPL job took: 206464us
+
+Memset 0 took: 129839us
+
+Hashing took: 129849us
+
+QPL job took: 207071us
+
+Memset 0 took: 129903us
+
+Hashing took: 129915us
+
+QPL job took: 206492us
+
+Memset 0 took: 130437us
+
+Hashing took: 130444us
+
+QPL job took: 206563us
+
+Memset 0 took: 129848us
+
+Hashing took: 129858us
+
+QPL job took: 207012us
+
+Memset 0 took: 129818us
+
+Hashing took: 129829us
+
+QPL job took: 206901us
+
+Memset 0 took: 130223us
+
+Hashing took: 130234us
+
+QPL job took: 206568us
+
+Memset 0 took: 129934us
+
+Hashing took: 129943us
+
+QPL job took: 206941us
+
+Memset 0 took: 129623us
+
+Hashing took: 129631us
+
+QPL job took: 207095us
+
+Memset 0 took: 130130us
+
+Hashing took: 130138us
+
+Memset 0 took: 129411us
+
+Hashing took: 129421us
+
+Memset 0 took: 129307us
+
+Hashing took: 129317us
+
+Memset 0 took: 129462us
+
+Hashing took: 129470us
+
+Memset 0 took: 129711us
+
+Hashing took: 129721us
+
+Memset 0 took: 129480us
+
+Hashing took: 129491us
+
+Memset 0 took: 129101us
+
+Hashing took: 129110us
+
+Memset 0 took: 129333us
+
+Hashing took: 129341us
+
+Memset 0 took: 129902us
+
+Hashing took: 129913us
+
+Memset 0 took: 129257us
+
+Hashing took: 129265us
+
+Memset 0 took: 129465us
+
+Hashing took: 129474us
+
+Memset 0 took: 129399us
+
+Hashing took: 129409us
+
+Memset 0 took: 129613us
+
+Hashing took: 129623us
+
+Memset 0 took: 129033us
+
+Hashing took: 129042us
+
+Memset 0 took: 128908us
+
+Hashing took: 128917us
+
+Memset 0 took: 129867us
+
+Hashing took: 129877us
+
+Memset 0 took: 129312us
+
+Hashing took: 129321us
+
+Memset 0 took: 129420us
+
+Hashing took: 129430us
+
+Memset 0 took: 129022us
+
+Hashing took: 129029us
+
+Memset 0 took: 129502us
+
+Hashing took: 129512us
+
+Memset 0 took: 129551us
+
+Hashing took: 129562us
+
+Memset 0 took: 128971us
+
+Hashing took: 128977us
+
+Memset 0 took: 129193us
+
+Hashing took: 129199us
+
+Memset 0 took: 129563us
+
+Hashing took: 129573us
+
+Memset 0 took: 129459us
+
+Hashing took: 129467us
+
+QPL job took: 207001us
+
+Memset 0 took: 130078us
+
+Hashing took: 130090us
+
+QPL job took: 206880us
+
+Memset 0 took: 129757us
+
+Hashing took: 129767us
+
+QPL job took: 207093us
+
+Memset 0 took: 129644us
+
+Hashing took: 129652us
+
+QPL job took: 207037us
+
+Memset 0 took: 130242us
+
+Hashing took: 130248us
+
+QPL job took: 206868us
+
+Memset 0 took: 129668us
+
+Hashing took: 129675us
+
+QPL job took: 207228us
+
+Memset 0 took: 129973us
+
+Hashing took: 129981us
+
+QPL job took: 207041us
+
+Memset 0 took: 130308us
+
+Hashing took: 130318us
+
+QPL job took: 207346us
+
+Memset 0 took: 129583us
+
+Hashing took: 129594us
+
+QPL job took: 206978us
+
+@chr1:art_modern:1:nompi:3 
+TAGATTTCTGTTGTTTAAGCTACCCAGTCTGTGGTACTTGGTTATGACAGCCCTAGAAAATGAAAATGGTCCCTTATTTTTGTCACATACCTTTTGTAGATTAAAGCTTCTGGGACCAGATTCCA
++
+:CCCCGGGGGCGGGGGGGGGDGGGGG:>CGGGGGGD=GG9GGGGBGGGGCGGGGFGGG1GGGGDG:GGGCGGGGGGGGGGGGGFGGGGG0GFFGGGGGGCGGGGGGGGFGGGDGGG=GEG/@GGG
+QPL job took: 206881us
+
+Memset 0 took: 130559us
+
+Hashing took: 130569us
+
+QPL job took: 206591us
+
+Memset 0 took: 129876us
+
+Hashing took: 129885us
+
+QPL job took: 206349us
+
+Memset 0 took: 130016us
+
+Hashing took: 130025us
+
+QPL job took: 206753us
+
+Memset 0 took: 130224us
+
+Hashing took: 130231us
+
+QPL job took: 206967us
+
+Memset 0 took: 129976us
+
+Hashing took: 129984us
+
+QPL job took: 206451us
+
+Memset 0 took: 130070us
+
+Hashing took: 130080us
+
+QPL job took: 207060us
+
+Memset 0 took: 129935us
+
+Hashing took: 129943us
+
+QPL job took: 206938us
+
+Memset 0 took: 130060us
+
+Hashing took: 130066us
+
+QPL job took: 206657us
+
+Memset 0 took: 130483us
+
+Hashing took: 130492us
+
+QPL job took: 206516us
+
+Memset 0 took: 129844us
+
+Hashing took: 129851us
+
+QPL job took: 206956us
+
+Memset 0 took: 129885us
+
+Hashing took: 129894us
+
+QPL job took: 206767us
+
+Memset 0 took: 130449us
+
+Hashing took: 130455us
+
+QPL job took: 206538us
+
+Memset 0 took: 137231us
+
+Hashing took: 137238us
+
+QPL job took: 206872us
+
+Memset 0 took: 129891us
+
+Hashing took: 129900us
+
+QPL job took: 206724us
+
+Memset 0 took: 130166us
+
+Hashing took: 130175us
+
+QPL job took: 206997us
+
+Memset 0 took: 129738us
+
+Hashing took: 129746us
+
+QPL job took: 206817us
+
+Memset 0 took: 130054us
+
+Hashing took: 130065us
+
+QPL job took: 206445us
+
+Memset 0 took: 130182us
+
+Hashing took: 130191us
+
+QPL job took: 206888us
+
+Memset 0 took: 129870us
+
+Hashing took: 129880us
+
+QPL job took: 206986us
+
+Memset 0 took: 129960us
+
+Hashing took: 129968us
+
+QPL job took: 206650us
+
+Memset 0 took: 130326us
+
+Hashing took: 130334us
+
+QPL job took: 206719us
+
+Memset 0 took: 129526us
+
+Hashing took: 129538us
+
+QPL job took: 206804us
+
+Memset 0 took: 129832us
+
+Hashing took: 129840us
+
+QPL job took: 206904us
+
+Memset 0 took: 130155us
+
+Hashing took: 130166us
+
+QPL job took: 206622us
+
+Memset 0 took: 129591us
+
+Hashing took: 129601us
+
+QPL job took: 207222us
+
+Memset 0 took: 129572us
+
+Hashing took: 129578us
+
+QPL job took: 206431us
+
+Memset 0 took: 130608us
+
+Hashing took: 130616us
+
+QPL job took: 206986us
+
+Memset 0 took: 129338us
+
+Hashing took: 129348us
+
+QPL job took: 207091us
+
+Memset 0 took: 129640us
+
+Hashing took: 129651us
+
+QPL job took: 206716us
+
+Memset 0 took: 130361us
+
+Hashing took: 130371us
+
+Memset 0 took: 129134us
+
+Hashing took: 129142us
+
+Memset 0 took: 129344us
+
+Hashing took: 129354us
+
+Memset 0 took: 129033us
+
+Hashing took: 129040us
+
+Memset 0 took: 129578us
+
+Hashing took: 129586us
+
+Memset 0 took: 129449us
+
+Hashing took: 129457us
+
+Memset 0 took: 128996us
+
+Hashing took: 129003us
+
+Memset 0 took: 129396us
+
+Hashing took: 129404us
+
+Memset 0 took: 129785us
+
+Hashing took: 129794us
+
+Memset 0 took: 129349us
+
+Hashing took: 129360us
+
+Memset 0 took: 129377us
+
+Hashing took: 129386us
+
+Memset 0 took: 129564us
+
+Hashing took: 129572us
+
+Memset 0 took: 129731us
+
+Hashing took: 129741us
+
+Memset 0 took: 129047us
+
+Hashing took: 129057us
+
+Memset 0 took: 129286us
+
+Hashing took: 129294us
+
+Memset 0 took: 129785us
+
+Hashing took: 129795us
+
+Memset 0 took: 129339us
+
+Hashing took: 129347us
+
+Memset 0 took: 129514us
+
+Hashing took: 129523us
+
+Memset 0 took: 129199us
+
+Hashing took: 129208us
+
+Memset 0 took: 129637us
+
+Hashing took: 129645us
+
+Memset 0 took: 129468us
+
+Hashing took: 129477us
+
+Memset 0 took: 128814us
+
+Hashing took: 128819us
+
+Memset 0 took: 129370us
+
+Hashing took: 129379us
+
+Memset 0 took: 129611us
+
+Hashing took: 129619us
+
+Memset 0 took: 129096us
+
+Hashing took: 129105us
+
+QPL job took: 206585us
+
+Memset 0 took: 130367us
+
+Hashing took: 130376us
+
+QPL job took: 206671us
+
+Memset 0 took: 129718us
+
+Hashing took: 129727us
+
+QPL job took: 206936us
+
+Memset 0 took: 129748us
+
+Hashing took: 129759us
+
+QPL job took: 206473us
+
+Memset 0 took: 130338us
+
+Hashing took: 130348us
+
+QPL job took: 206517us
+
+Memset 0 took: 129676us
+
+Hashing took: 129684us
+
+QPL job took: 206810us
+
+Memset 0 took: 129693us
+
+Hashing took: 129701us
+
+QPL job took: 206371us
+
+Memset 0 took: 130218us
+
+Hashing took: 130228us
+
+QPL job took: 206538us
+
+Memset 0 took: 129778us
+
+Hashing took: 129786us
+
+QPL job took: 206880us
+
+Memset 0 took: 129920us
+
+Hashing took: 129928us
+
+QPL job took: 206677us
+
+Memset 0 took: 130073us
+
+Hashing took: 130082us
+
+QPL job took: 206601us
+
+Memset 0 took: 129739us
+
+Hashing took: 129749us
+
+QPL job took: 207175us
+
+Memset 0 took: 129704us
+
+Hashing took: 129712us
+
+QPL job took: 206505us
+
+Memset 0 took: 130145us
+
+Hashing took: 130154us
+
+QPL job took: 206479us
+
+Memset 0 took: 129928us
+
+Hashing took: 129935us
+
+QPL job took: 207010us
+
+Memset 0 took: 129762us
+
+Hashing took: 129770us
+
+QPL job took: 206620us
+
+Memset 0 took: 130236us
+
+Hashing took: 130247us
+
+QPL job took: 206797us
+
+Memset 0 took: 130162us
+
+Hashing took: 130169us
+
+QPL job took: 207367us
+
+Memset 0 took: 129995us
+
+Hashing took: 130002us
+
+QPL job took: 206466us
+
+Memset 0 took: 130057us
+
+Hashing took: 130066us
+
+QPL job took: 206644us
+
+Memset 0 took: 130079us
+
+Hashing took: 130087us
+
+QPL job took: 206684us
+
+Memset 0 took: 129884us
+
+Hashing took: 129892us
+
+QPL job took: 206557us
+
+Memset 0 took: 130092us
+
+Hashing took: 130101us
+
+QPL job took: 206655us
+
+Memset 0 took: 130169us
+
+Hashing took: 130180us
+
+QPL job took: 206871us
+
+Memset 0 took: 129837us
+
+Hashing took: 129845us
+
+QPL job took: 206531us
+
+Memset 0 took: 129869us
+
+Hashing took: 129876us
+
+QPL job took: 206956us
+
+Memset 0 took: 130031us
+
+Hashing took: 130038us
+
+QPL job took: 206697us
+
+Memset 0 took: 129916us
+
+Hashing took: 129925us
+
+QPL job took: 206510us
+
+Memset 0 took: 130358us
+
+Hashing took: 130366us
+
+QPL job took: 206777us
+
+Memset 0 took: 130194us
+
+Hashing took: 130201us
+
+QPL job took: 206988us
+
+Memset 0 took: 130020us
+
+Hashing took: 130027us
+
+QPL job took: 206751us
+
+Memset 0 took: 130399us
+
+Hashing took: 130406us
+
+QPL job took: 206537us
+
+Memset 0 took: 129882us
+
+Hashing took: 129892us
+
+QPL job took: 206953us
+
+Memset 0 took: 129993us
+
+Hashing took: 130000us
+
+QPL job took: 206511us
+
+Memset 0 took: 130217us
+
+Hashing took: 130226us
+
+QPL job took: 206529us
+
+Memset 0 took: 129831us
+
+Hashing took: 129841us
+
+QPL job took: 206834us
+
+Memset 0 took: 130132us
+
+Hashing took: 130141us
+
+QPL job took: 206700us
+
+Memset 0 took: 130099us
+
+Hashing took: 130104us
+
+QPL job took: 206407us
+
+Memset 0 took: 129835us
+
+Hashing took: 129844us
+
+QPL job took: 206735us
+
+Memset 0 took: 130175us
+
+Hashing took: 130186us
+
+QPL job took: 206633us
+
+Memset 0 took: 130035us
+
+Hashing took: 130043us
+
+QPL job took: 206862us
+
+Memset 0 took: 130050us
+
+Hashing took: 130059us
+
+QPL job took: 207089us
+
+Memset 0 took: 130062us
+
+Hashing took: 130068us
+
+QPL job took: 206769us
+
+@chr1:art_modern:1:nompi:2 
+TTTGATAAAGCAGAAATGGGCCATATTTTTAAATCAAAAATGATTATAATTACCAATTTCTATAAATGTTAATTTGAGGGATTTAGAAATATTCGTTAATGGTAGACGTTTCTAACCAAGGTTCC
++
+CCCCCGGGGFGGDGGFGGGGEGGGGG>GG=GGGGGGGG11GFGGGGGGGGEGGGG>GFGGGGGGGGGGGGGGGGEGGGGGGGGGGGGGGE0FGGGCG/GFGG8GG<BGEG1GGG;GG8GGGGG/G
+QPL job took: 207125us
+
+Memset 0 took: 129937us
+
+Hashing took: 129947us
+
+QPL job took: 206985us
+
+Memset 0 took: 130371us
+
+Hashing took: 130380us
+
+QPL job took: 206877us
+
+Memset 0 took: 129649us
+
+Hashing took: 129658us
+
+QPL job took: 207347us
+
+Memset 0 took: 129483us
+
+Hashing took: 129492us
+
+QPL job took: 207143us
+
+Memset 0 took: 130124us
+
+Hashing took: 130133us
+
+QPL job took: 206724us
+
+Memset 0 took: 129695us
+
+Hashing took: 129704us
+
+QPL job took: 207272us
+
+Memset 0 took: 129519us
+
+Hashing took: 129529us
+
+QPL job took: 206692us
+
+Memset 0 took: 130326us
+
+Hashing took: 130337us
+
+QPL job took: 206741us
+
+Memset 0 took: 129883us
+
+Hashing took: 129893us
+
+QPL job took: 206814us
+
+Memset 0 took: 129568us
+
+Hashing took: 129578us
+
+QPL job took: 206772us
+
+Memset 0 took: 130071us
+
+Hashing took: 130079us
+
+QPL job took: 206856us
+
+Memset 0 took: 129690us
+
+Hashing took: 129700us
+
+QPL job took: 206735us
+
+Memset 0 took: 129547us
+
+Hashing took: 129555us
+
+QPL job took: 207152us
+
+Memset 0 took: 129796us
+
+Hashing took: 129806us
+
+QPL job took: 206559us
+
+Memset 0 took: 129760us
+
+Hashing took: 129768us
+
+QPL job took: 207336us
+
+Memset 0 took: 129710us
+
+Hashing took: 129722us
+
+QPL job took: 206825us
+
+Memset 0 took: 130188us
+
+Hashing took: 130199us
+
+Memset 0 took: 129535us
+
+Hashing took: 129543us
+
+Memset 0 took: 129064us
+
+Hashing took: 129072us
+
+Memset 0 took: 129578us
+
+Hashing took: 129586us
+
+Memset 0 took: 129352us
+
+Hashing took: 129361us
+
+Memset 0 took: 128830us
+
+Hashing took: 128841us
+
+Memset 0 took: 129280us
+
+Hashing took: 129287us
+
+Memset 0 took: 129871us
+
+Hashing took: 129880us
+
+Memset 0 took: 129213us
+
+Hashing took: 129223us
+
+Memset 0 took: 129441us
+
+Hashing took: 129449us
+
+Memset 0 took: 129214us
+
+Hashing took: 129223us
+
+Memset 0 took: 129410us
+
+Hashing took: 129418us
+
+Memset 0 took: 129575us
+
+Hashing took: 129586us
+
+Memset 0 took: 129215us
+
+Hashing took: 129226us
+
+Memset 0 took: 129309us
+
+Hashing took: 129318us
+
+Memset 0 took: 129863us
+
+Hashing took: 129873us
+
+Memset 0 took: 129540us
+
+Hashing took: 129550us
+
+Memset 0 took: 129560us
+
+Hashing took: 129568us
+
+Memset 0 took: 129544us
+
+Hashing took: 129551us
+
+Memset 0 took: 129833us
+
+Hashing took: 129843us
+
+Memset 0 took: 129164us
+
+Hashing took: 129174us
+
+Memset 0 took: 128913us
+
+Hashing took: 128923us
+
+Memset 0 took: 129436us
+
+Hashing took: 129442us
+
+Memset 0 took: 136436us
+
+Hashing took: 136446us
+
+Memset 0 took: 129455us
+
+Hashing took: 129466us
+
+QPL job took: 206825us
+
+Memset 0 took: 130061us
+
+Hashing took: 130070us
+
+QPL job took: 206349us
+
+Memset 0 took: 130200us
+
+Hashing took: 130208us
+
+QPL job took: 207342us
+
+Memset 0 took: 130046us
+
+Hashing took: 130054us
+
+QPL job took: 206578us
+
+Memset 0 took: 130475us
+
+Hashing took: 130483us
+
+QPL job took: 206398us
+
+Memset 0 took: 130007us
+
+Hashing took: 130016us
+
+Memset 0 took: 130120us
+
+Hashing took: 130128us
+
+Memset 0 took: 129610us
+
+Hashing took: 129619us
+
+Memset 0 took: 129468us
+
+Hashing took: 129479us
+
+Memset 0 took: 129131us
+
+Hashing took: 129140us
+
+Memset 0 took: 129443us
+
+Hashing took: 129453us
+
+Memset 0 took: 129337us
+
+Hashing took: 129347us
+
+Memset 0 took: 128893us
+
+Hashing took: 128902us
+
+Memset 0 took: 129348us
+
+Hashing took: 129358us
+
+Memset 0 took: 129684us
+
+Hashing took: 129691us
+
+Memset 0 took: 129294us
+
+Hashing took: 129302us
+
+Memset 0 took: 129343us
+
+Hashing took: 129351us
+
+Memset 0 took: 129150us
+
+Hashing took: 129159us
+
+Memset 0 took: 129682us
+
+Hashing took: 129689us
+
+Memset 0 took: 129392us
+
+Hashing took: 129401us
+
+Memset 0 took: 128934us
+
+Hashing took: 128942us
+
+Memset 0 took: 129692us
+
+Hashing took: 129702us
+
+Memset 0 took: 129558us
+
+Hashing took: 129568us
+
+Memset 0 took: 129513us
+
+Hashing took: 129521us
+
+Memset 0 took: 129293us
+
+Hashing took: 129299us
+
+Memset 0 took: 129501us
+
+Hashing took: 129512us
+
+Memset 0 took: 129412us
+
+Hashing took: 129422us
+
+Memset 0 took: 128946us
+
+Hashing took: 128956us
+
+Memset 0 took: 129333us
+
+Hashing took: 129342us
+
+Memset 0 took: 129403us
+
+Hashing took: 129411us
+
+QPL job took: 206743us
+
+Memset 0 took: 129837us
+
+Hashing took: 129847us
+
+QPL job took: 206891us
+
+Memset 0 took: 129780us
+
+Hashing took: 129791us
+
+QPL job took: 206990us
+
+Memset 0 took: 130158us
+
+Hashing took: 130167us
+
+QPL job took: 206842us
+
+Memset 0 took: 129787us
+
+Hashing took: 129796us
+
+QPL job took: 207235us
+
+Memset 0 took: 130052us
+
+Hashing took: 130061us
+
+Memset 0 took: 128989us
+
+Hashing took: 128999us
+
+Memset 0 took: 129461us
+
+Hashing took: 129471us
+
+Memset 0 took: 129932us
+
+Hashing took: 129944us
+
+Memset 0 took: 129346us
+
+Hashing took: 129354us
+
+Memset 0 took: 129260us
+
+Hashing took: 129267us
+
+Memset 0 took: 129488us
+
+Hashing took: 129498us
+
+Memset 0 took: 129588us
+
+Hashing took: 129596us
+
+Memset 0 took: 129004us
+
+Hashing took: 129013us
+
+Memset 0 took: 128991us
+
+Hashing took: 128999us
+
+Memset 0 took: 130144us
+
+Hashing took: 130152us
+
+Memset 0 took: 129460us
+
+Hashing took: 129469us
+
+Memset 0 took: 129421us
+
+Hashing took: 129430us
+
+Memset 0 took: 129016us
+
+Hashing took: 129025us
+
+Memset 0 took: 129470us
+
+Hashing took: 129480us
+
+Memset 0 took: 129576us
+
+Hashing took: 129584us
+
+Memset 0 took: 129182us
+
+Hashing took: 129191us
+
+Memset 0 took: 129155us
+
+Hashing took: 129163us
+
+Memset 0 took: 129256us
+
+Hashing took: 129267us
+
+@chr1:art_modern:1:nompi:1 
+GAAAAGAAATCAGGACAGTGGGGATCTAGTTACTAAACATGTTTCTCTTTTCTTTCTTTCTTTTTTTTTTTTTGGCGGGGGGGATACATTCTATCTCTGTCACCCAGGCTGGAGTGCAGTGGTGC
++
+ACCBCGGGGGGGGGGGGGGGGGDGGGGGGGGGGGGGCG:GGGG1BGGGGGGGGGG1GGCEGEG1GGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGEGGGG.G/G0CGG<GGGGGGGGGGGG@GGG

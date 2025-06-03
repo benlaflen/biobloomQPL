@@ -48,12 +48,12 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	double score = 0;
 	unsigned antiScore = 0;
 	unsigned streak = 0;
-	ntHashIteratorQPL itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
+	ntHashIterator itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.containsQPL(*itr)) {
-			if (subtract == NULL || !subtract->containsQPL(*itr))
+				&& filter.contains(*itr)) {
+			if (subtract == NULL || !subtract->contains(*itr))
 				score += 0.5;
 			if (thres <= score) {
 				return true;
@@ -77,12 +77,12 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 			streak = 0;
 		}
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& filter.containsQPL(*itr)) {
+				&& filter.contains(*itr)) {
 			if (streak == 0) {
-				if (subtract == NULL || !subtract->containsQPL(*itr))
+				if (subtract == NULL || !subtract->contains(*itr))
 					score += 0.5;
 			} else {
-				if (subtract == NULL || !subtract->containsQPL(*itr))
+				if (subtract == NULL || !subtract->contains(*itr))
 					++score;
 			}
 			if (thres <= score) {
