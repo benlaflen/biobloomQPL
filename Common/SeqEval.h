@@ -15,6 +15,7 @@
 #include <string>
 #include <cmath>
 #include <cassert>
+#include <chrono>
 #include "Common/Options.h"
 #include "btl_bloomfilter/BloomFilter.hpp"
 #include "btl_bloomfilter/vendor/ntHashIteratorQPL.hpp"
@@ -54,7 +55,7 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
 		auto start = std::chrono::high_resolution_clock::now();
-		bool truth = filter.contains(*itr)
+		bool truth = filter.contains(*itr);
 		auto end = std::chrono::high_resolution_clock::now();
 		std::chrono::duration<double, std::micro> elapsed = end - start;
 		std::cout<<"Contains took: " << elapsed.count() << "us\n\n";
@@ -84,7 +85,7 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 			streak = 0;
 		}
 		auto start = std::chrono::high_resolution_clock::now();
-		bool truth = filter.contains(*itr)
+		bool truth = filter.contains(*itr);
 		auto end = std::chrono::high_resolution_clock::now();
 		std::chrono::duration<double, std::micro> elapsed = end - start;
 		std::cout<<"Contains took: " << elapsed.count() << "us\n\n";
