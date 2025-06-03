@@ -15,7 +15,6 @@
 #include <string>
 #include <cmath>
 #include <cassert>
-#include <chrono>
 #include "Common/Options.h"
 #include "btl_bloomfilter/BloomFilter.hpp"
 #include "btl_bloomfilter/vendor/ntHashIteratorQPL.hpp"
@@ -45,22 +44,15 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 	const double antiThres = floor(
 			denormalizeScore(1.0 - threshold, filter.getKmerSize(),
 					rec.length()));
-	
-	std::cout<<"TEST!!!\n\n";
 
 	double score = 0;
 	unsigned antiScore = 0;
 	unsigned streak = 0;
-	ntHashIterator itr(rec, filter.getKmerSize(), filter.getKmerSize(), filter.sizeInBytes());
+	ntHashIterator itr(rec, filter.getKmerSize(), filter.getKmerSize()/*, filter.sizeInBytes()*/);
 	unsigned prevPos = 0;
 	if (itr != itr.end()) {
-		auto start = std::chrono::high_resolution_clock::now();
-		bool truth = filter.contains(*itr);
-		auto end = std::chrono::high_resolution_clock::now();
-		std::chrono::duration<double, std::micro> elapsed = end - start;
-		std::cout<<"Contains took: " << elapsed.count() << "us\n\n";
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& truth) {
+				&& filter.contains(*itr)) {
 			if (subtract == NULL || !subtract->contains(*itr))
 				score += 0.5;
 			if (thres <= score) {
@@ -84,13 +76,8 @@ inline bool evalSimple(const string &rec, const BloomFilter &filter,
 			}
 			streak = 0;
 		}
-		auto start = std::chrono::high_resolution_clock::now();
-		bool truth = filter.contains(*itr);
-		auto end = std::chrono::high_resolution_clock::now();
-		std::chrono::duration<double, std::micro> elapsed = end - start;
-		std::cout<<"Contains took: " << elapsed.count() << "us\n\n";
 		if (!(sduster != NULL && sduster->isLowComp(itr.pos()))
-				&& truth) {
+				&& filter.contains(*itr)) {
 			if (streak == 0) {
 				if (subtract == NULL || !subtract->contains(*itr))
 					score += 0.5;
